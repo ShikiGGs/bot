@@ -1,2 +1,2 @@
-# bot
-hh
+# betBot
+ mm2 gambling discord bot
